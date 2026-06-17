@@ -6,9 +6,9 @@ public class Main {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int c = sc.nextInt();
-        
+
         int hap = a+b+c;
-        double avg = hap/3.0;
+        int avg = hap/3;
         System.out.println(hap);    
         System.out.println(avg);
         System.out.println(hap-avg);
