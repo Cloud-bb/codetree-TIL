@@ -9,10 +9,10 @@ public class Main {
         if(a<b){
             System.out.print(1+"\t");
         }else{
-              System.out.print(0);
+              System.out.print(0+"\t");
         }
         if(a==b){
-            System.out.print(1+"\t");
+            System.out.print(1);
         }else{
              System.out.print(0);
         }
