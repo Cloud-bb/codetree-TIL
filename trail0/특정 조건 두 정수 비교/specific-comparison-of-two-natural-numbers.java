@@ -12,7 +12,7 @@ public class Main {
               System.out.print(0);
         }
         if(a==b){
-            System.out.print(1);
+            System.out.print(1+"\t");
         }else{
              System.out.print(0);
         }
