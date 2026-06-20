@@ -5,8 +5,8 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();
 
-        for(int i=0;i<=5;i++){
-            System.out.print(N * (i*5));
+        for(int i=1;i<=5;i++){
+            System.out.print(N * i +" ");
         }
     }
 }
